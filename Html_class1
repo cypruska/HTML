@@ -1,0 +1,53 @@
+<html> <!-- Arranca el index-->
+
+
+		<head>
+
+
+				<title>
+				Sitio web nuevo - archivo 55 <!-- Google busca esto en el navegador aunque no se vea porque está dentro de HEAD-->
+				</title>
+		</head>
+		<body bgcolor="grey" text="white" background="http://mla-s1-p.mlstatic.com/dostoievski-obras-hermanos-karamazov-crimen-y-castigo-4857-MLA3907781070_032013-F.jpg">     <!-- <etiqueta+atributo="valor"> <!-- La foto en background lógicamente queda de FONDO. Puede ser URL copiada o desde un archivo en la misma carpeta del servidor local-->
+				<h1> Mi sitio web </h1>
+				
+				
+				<h2> Hola </h2>                      <!-- Párrafo tipo comentario --> 
+Texto Y - H2				
+				<h3> Color 1 </h3>
+									<ul>  <!-- Unordered List-->  
+										<li>Item 1 </li>
+										<li>Item 2 </li> <!-- Li es de list-->
+										<li><em> Item 3 </em> <!-- Ves, gato, esto es decorativo, no tiene mayor jerarquia en Google-->
+									</ul>
+					
+					
+									<ol> <!-- Ordered list-->
+											<li> Item ordenado 1 </li>
+											<li> Item ordenado 2 </li>
+									
+									</ol>
+								
+								<h4> Título nuevo </h4>
+				<h5> Informaci&oacuten  </h5>
+				Texto 5
+				
+				<p id="Name" style="text-align:right"> <strong> Con todo, posicionar políticamente a Dostoyevski no es del todo sencillo: como cristiano, rechazaba el ateísmo socialista, como tradicionalista, la destrucción de las instituciones y, como pacifista,25 cualquier método violento de cambio social, tanto progresista como reaccionario. </strong> A pesar de esto, dio claras muestras de simpatía por las reformas sociales producidas durante el reinado de Alejandro II, en particular por la que implicó la abolición de la servidumbre en el campo, dictada en 1861.26 Por otra parte, si bien en los primeros años de su regreso de <em>Kazajistán </em> era todavía escéptico respecto de los reclamos de las feministas, en 1870 escribió que «todavía podía esperar mucho de la mujer rusa» y cambió de parecer.27 <!--Todo lo que esté dentro de style es código CSS--> <!-- Al ponerle ID lo identificamos para moverlo. En base de datos y SQL se utiliza. text-align: right center justified left :::: son actuales.--> </p>
+				
+							<etiqueta atributo="valor"> <atributos en rojo> <valores en violeta>
+				
+				
+				
+				<h6> Cátedra	</h6>  <!-- Estas son 6 jerarquias de subtitulos-->
+            Texto 6
+
+			<p> El disco C de todas las computadoras del Instituto se encuentra freezado. ¿Qué significa esto? Que cualquier información guardada en este disco se borrará una vez que se apague o reinicie el equipo.El disco C de todas las computadoras del Instituto se encuentra freezado. ¿Qué significa esto? Que cualquier información <b><em>guardada </em> </b> en este disco se borrará una vez que se apague o reinicie el equipo.El disco C de todas las computadoras del Instituto se encuentra freezado. <i>¿Qué significa esto?</i> Que cualquier información guardada en este disco se borrará una vez que se apague o reinicie el equipo.<hr> <!-- Regla Horizontal, o sea linea. Esta no tiene cierre.--> El disco C de todas las computadoras del Instituto se encuentra freezado. ¿Qué significa esto? Que cualquier información guardada en este disco se borrará una vez que se apague o reinicie el equipo. </p> <!-- Esto es un párrafo, wacho!--> 
+								
+			
+			<p> <strong> <!-- Strong está en mejor jerarquia que <em>, pero <b> y <i> son solo decorativas-->Ya en la temporada 2006-2007 jugó por primera vez en su historia en la Premier League, donde fue la revelación de la temporada quedando en un 8° puesto con 55 puntos, sorprendiendo a muchos, clasificándose a la Copa Intertoto de la UEFA. sin embargo se rechazo la participación. Sin embargo la siguiente temporada fue mala. tras una seguidilla de resultados malos en las últimas 10 fechas y pese a vapulear 4 a 0 como visitante al descendido desastroso <b>Derby County, el Reading </b> perdió la categoría por diferencia de gol que tenía con el Fulham FC, equipo que hizo una milagrosa remontada. </strong> <br> <!--Etiqueta de salto de línea (ENTER) --> ¿Qué significa esto? Que cualquier información guardada en este disco se borrará una vez que se apague o reinicie el equipo.El disco C de todas las computadoras del Instituto se encuentra freezado. ¿Qué significa esto? Que cualquier información guardada en este disco se borrará una vez que se apague o reinicie el equipo. </p>
+			
+		</body>
+
+
+
+</html>
